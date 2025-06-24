@@ -17,7 +17,7 @@ In today's digital work environment, employee productivity and well-being are in
 
 ---
 
-## 🧪 Dataset Summary
+##  Dataset Summary
 
 The dataset includes:
 - Demographics: Age, Gender
